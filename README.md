@@ -4,5 +4,5 @@
 ### [] Git cmd
 ### [] GitHub en Markdown
 
-(/images/sample.png "This is a sample image.")
+
 
